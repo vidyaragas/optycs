@@ -3,4 +3,5 @@
 - Calculate IV, Delta and other analytics to help determine 
   a) initiate optimal options trade
   b) necessary delta hedge, if an adjustment is needed for an existing postion
+- live at http://optiks.rainoversea.com
 
